@@ -1,0 +1,55 @@
+<html>
+    <header>
+        <title>
+            box model 2
+        </title>
+        <style>
+            #by{
+                background-color: black;
+            }
+           #p1{
+            color:rgb(255, 240, 240);
+           }
+           p{
+            color:rgb(200, 200, 250)
+           }
+           #p2{
+            color:aliceblue;
+            height:100px;
+            width:120px;
+            padding: 15%;
+            border:5px solid whitesmoke;
+            margin:160px;
+           }
+           #E1{
+            float:left;
+            height:200px;
+            width:300px;
+           }
+           #E2{
+            float:right;
+            height:200px;
+            width:300px;
+           }
+           #p3{
+            color:antiquewhite
+           }
+        </style>
+    </header>
+    <body id="by">
+        <h1 id="p1">
+            Box Model Properties
+        </h1>
+        <p>
+            The CSS box model defines the structure and layout of elements on a webpage, which are represented as rectangular boxes. This model is controlled by properties that define four distinct areas: content, padding, border, and margin.
+        </p>
+        <h2 id="p2">
+            Model Content
+        </h2>
+        <h1 id="p3">
+            Floating in CSS
+        </h1>
+        <img id="E1" src="https://static.vecteezy.com/system/resources/thumbnails/041/880/991/small/ai-generated-pic-artistic-depiction-of-sunflowers-under-a-vast-cloudy-sky-photo.jpg">
+        <img id="E2" src="https://static.vecteezy.com/system/resources/thumbnails/041/880/991/small/ai-generated-pic-artistic-depiction-of-sunflowers-under-a-vast-cloudy-sky-photo.jpg">
+    </body>
+</html>
