@@ -1,0 +1,22 @@
+<html>
+    <header>
+        <title>
+            Floating in HTML
+        </title>
+        <style>
+            #e1{
+                float:left;
+            }
+            #e2{
+                float:right;
+            }
+        </style>
+    </header>
+    <body>
+        <p>
+            A flower is the reproductive part of a flowering plant, known for its beautiful petals, colors, and scents, serving to attract pollinators to produce seeds and new plants, and used by humans for decoration, gifts, and even food.
+        </p>
+        <img id="e1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuaCPHZvXA8tqyRHDSn5E1ZuxW-h5ocCJcMQ&s">
+        <img id="e2" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0odxLN_Ld8MrKWqHXeA9utBIHkCLvkuNJCg&s">
+    </body>
+</html>
